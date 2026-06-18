@@ -25,4 +25,4 @@ Here's a recap of your accomplishments:
 
 ### Actions running pricing
 
-[Actions runner pricing](https://docs.github.com/en/billing/reference/actions-runner-pricing)
+[Actions runner pricing](https://docs.github.com/en/billing/reference/actions-runner-pricing) 
